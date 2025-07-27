@@ -1,0 +1,48 @@
+Light Hub — Terms of Service
+Effective Date: July 27, 2025
+
+1. Acceptance of Terms
+By accessing or using Light Hub (“we”, “our”, or “the Service”), you agree to comply with and be bound by these Terms of Service (“Terms”). If you do not agree with any part of these Terms, you must not use Light Hub.
+
+2. Eligibility
+You must be at least 13 years old or the minimum age required in your country to use Roblox. By using Light Hub, you represent that you meet these requirements.
+
+3. Use of Service
+You agree to use Light Hub only for lawful purposes and in accordance with these Terms. You must not misuse or exploit the Service in any manner, including but not limited to distributing cheats, malicious scripts, or using Light Hub for harassment, abuse, or any activity that violates Roblox’s Terms of Use.
+
+4. User Responsibility
+You are solely responsible for your actions when using Light Hub. You understand and accept that using any third-party modifications, exploits, or scripts may violate Roblox’s Terms of Use and could result in penalties, including permanent account bans.
+
+5. No Liability for Bans
+Light Hub is provided “as is” without warranty of any kind. We do not guarantee that the Service is undetectable or safe from countermeasures by Roblox or individual game developers. We are not responsible or liable for any bans, suspensions, or punitive actions taken against your Roblox account or any other accounts linked to your use of Light Hub.
+
+6. Prohibited Conduct
+You agree not to:
+
+Attempt to gain unauthorized access to any part of the Service.
+
+Reverse engineer, decompile, or attempt to extract the source code.
+
+Use Light Hub to harm, disrupt, or interfere with other users or games.
+
+Distribute or resell Light Hub without explicit permission.
+
+Misrepresent your affiliation with Light Hub or impersonate our staff.
+
+7. Intellectual Property
+All content, branding, and custom code provided as part of Light Hub remain our property or the property of our partners and licensors. You may not copy, reproduce, or distribute any part of Light Hub except as expressly permitted by us.
+
+8. Termination
+We reserve the right to suspend or terminate your access to Light Hub at our sole discretion, without prior notice, if we believe you have violated these Terms or misused the Service in any way.
+
+9. Disclaimer of Warranties
+Your use of Light Hub is at your sole risk. Light Hub is provided on an “as is” and “as available” basis. We disclaim all warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+10. Limitation of Liability
+To the fullest extent permitted by applicable law, Light Hub and its developers shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of data, accounts, profits, or other intangible losses resulting from your use of or inability to use the Service.
+
+By continuing to use Light Hub, you acknowledge that you have read, understood, and agreed to these Terms of Service. We reserve the right to modify these Terms at any time. It is your responsibility to review them periodically. Continued use of Light Hub after changes means you accept the updated Terms.
+
+Contact: For questions about these Terms, please reach out through our official channels. Contact the Head Developer through discord, username is filipp999.
+
+New update is rolling out tomorrow or in a few days depending on how testing will work out! Please report any bugs to the Head Developer. Our update includes a Hyper Library of 300+ games and 1000+ scripts all in one script!
