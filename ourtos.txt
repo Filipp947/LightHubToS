@@ -43,6 +43,4 @@ To the fullest extent permitted by applicable law, Light Hub and its developers 
 
 By continuing to use Light Hub, you acknowledge that you have read, understood, and agreed to these Terms of Service. We reserve the right to modify these Terms at any time. It is your responsibility to review them periodically. Continued use of Light Hub after changes means you accept the updated Terms.
 
-Contact: For questions about these Terms, please reach out through our official channels. Contact the Head Developer through discord, username is filipp999.
-
-New update is rolling out tomorrow or in a few days depending on how testing will work out! Please report any bugs to the Head Developer. Our update includes a Hyper Library of 300+ games and 1000+ scripts all in one script!
+Contact: For questions about these Terms, please reach out through our official channels. Contact the Head Developer through discord, username is narodi
